@@ -1,6 +1,4 @@
 
-
-
 def gameLoop():
     while True:
         gameState = gameMenu()
